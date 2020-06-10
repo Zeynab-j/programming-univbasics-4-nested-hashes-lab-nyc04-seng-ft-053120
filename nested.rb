@@ -98,8 +98,6 @@ def changing_alan
         }
      }
 		alans_new_info = "GUI"
-	}
-}
 end
 
 def adding_to_dennis
@@ -119,8 +117,8 @@ def adding_to_dennis
         :languages => ["Smalltalk", "LISP"]
       },
       :dennis_ritchie => {
-        :known_for => "Unix",
-        :languages => ["C"]
+      :known_for => "Unix",
+      :languages => ["C"]
       }
 		}
 
