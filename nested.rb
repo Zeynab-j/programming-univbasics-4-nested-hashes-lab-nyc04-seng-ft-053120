@@ -58,21 +58,20 @@ programmer_hash.merge(:yukihiro_matsumoto => {:known_for => "Ruby", :languages =
 
 # return the entire updated hash
 
-	programmer_hash =
- 		{
-      :grace_hopper => {
-        :known_for => "COBOL",
-        :languages => ["COBOL", "FORTRAN"]
-      },
-      :alan_kay => {
-        :known_for => "Object Orientation",
-        :languages => ["Smalltalk", "LISP"]
-      },
-      :dennis_ritchie => {
-        :known_for => "Unix",
-        :languages => ["C"]
-      }
-    }
+programmer_hash = 
+programmer_hash =
+	{
+			:grace_hopper => {
+				:known_for => "COBOL",
+				:languages => ["COBOL", "FORTRAN"]
+			},
+			:alan_kay => {
+				:known_for => "Object Orientation",
+				:languages => ["Smalltalk", "LISP"]
+			},
+			:dennis_ritchie => {
+				:known_for => "Unix",
+				:languages => ["C"]
 
 end
 
