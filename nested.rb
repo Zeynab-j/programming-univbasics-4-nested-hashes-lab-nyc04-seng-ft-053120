@@ -73,6 +73,7 @@ programmer_hash = {grace_hopper:"COBOL,FORTRAN", alan_kay:"Smalltalk,LISP", denn
    :known_for => "Ruby",
    :languages => ["LISP", "C"]
 # return the entire updated hash
+ }
 }
 programmer_hash
 
